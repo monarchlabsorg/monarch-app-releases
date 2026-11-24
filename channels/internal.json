@@ -1,8 +1,8 @@
 {
-  "versionCode": 200,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/monarchlabsorg/monarch-app-releases/releases/download/v0.2.0/monarch-0.2.0.apk",
-  "sha256": "55648b15e0e9c3ebc4922aa5818a52f158dea889c1e088160a8663aa1b4038e8",
+  "versionCode": 201,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/monarchlabsorg/monarch-app-releases/releases/download/v0.2.1/monarch-0.2.1.apk",
+  "sha256": "d373d6177c82b4d241209ecf5717eab098e0ac514520f1ded0711e2ae108956e",
   "sizeBytes": 13303695,
-  "commit": "a5d87175767a0609ca4c8bccd30617720ecf1b47"
+  "commit": "2f35841658b3cd226aecc612d1622046b8e0a5d4"
 }
